@@ -1,0 +1,20 @@
+﻿<Window x:Class="_6T25_LoukaConstant_WPF6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_6T25_LoukaConstant_WPF6"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ListBox Height="100" Width="300">
+            <ListBoxItem Foreground="#0000FF">Firts steps/Lena</ListBoxItem>
+            <ListBoxItem Foreground="#00FF00">Like a prayer/Madonna</ListBoxItem>
+            <ListBoxItem Foreground="#FF0000">The Force Theme/John Williams</ListBoxItem>
+            <ListBoxItem Foreground="#2BA6A6">Take me home, Country Roads/John Denver</ListBoxItem>
+            <ListBoxItem Foreground="#FFC0CB">Billie Jean/Michael Jackson</ListBoxItem>
+            <ListBoxItem Foreground="#000000">Bohemian Rhapsody/Queen</ListBoxItem>
+            <ListBoxItem Foreground="#D3D3D3">One Love/Bob Marley</ListBoxItem>
+        </ListBox>
+    </Grid>
+</Window>
