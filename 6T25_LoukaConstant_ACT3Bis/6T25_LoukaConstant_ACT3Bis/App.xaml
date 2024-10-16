@@ -1,0 +1,9 @@
+﻿<Application x:Class="_6T25_LoukaConstant_ACT3Bis.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:_6T25_LoukaConstant_ACT3Bis"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

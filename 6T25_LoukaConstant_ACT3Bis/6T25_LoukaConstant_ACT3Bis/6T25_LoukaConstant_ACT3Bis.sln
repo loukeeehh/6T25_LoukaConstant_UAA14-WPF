@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6T25_LoukaConstant_ACT3Bis", "6T25_LoukaConstant_ACT3Bis.csproj", "{208596E2-7C42-4BB1-A056-2B0EF9F9932A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{208596E2-7C42-4BB1-A056-2B0EF9F9932A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{208596E2-7C42-4BB1-A056-2B0EF9F9932A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{208596E2-7C42-4BB1-A056-2B0EF9F9932A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{208596E2-7C42-4BB1-A056-2B0EF9F9932A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F867E2D-D888-428F-9756-8B56EA811079}
+	EndGlobalSection
+EndGlobal
